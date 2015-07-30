@@ -12,5 +12,8 @@
         "icon": "icons/button.png",
         "tooltipText": "converse with friends."
     },
+    "permissions": {
+        "notifications": true
+    },
     "name": "converse"
 }
