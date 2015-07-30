@@ -1,0 +1,16 @@
+{
+    "content_scripts": [],
+    "description": "Extension description",
+    "creator": "Eric Martindale",
+    "background_scripts": [
+        "main.js"
+    ],
+    "homepage_url": "https://converse.ericmartindale.com/",
+    "version": "0.0.0",
+    "browser_button": {
+        "caption": "converse",
+        "icon": "icons/button.png",
+        "tooltipText": "converse with friends."
+    },
+    "name": "converse"
+}
